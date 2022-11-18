@@ -19,8 +19,6 @@ public class student
             age = 0;
         }
 
-
-
     public int getAge() {
         return age;
     }
@@ -43,7 +41,6 @@ public class student
         {
             this.name = name;
         }
-
     }
 
 
@@ -63,8 +60,6 @@ public class student
             this.SSN = "please try again";
         }
     }
-
-
 
     @Override
     public String
